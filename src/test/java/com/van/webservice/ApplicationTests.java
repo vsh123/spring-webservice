@@ -1,4 +1,4 @@
-package com.van.springwebservice;
+package com.van.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
